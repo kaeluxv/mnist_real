@@ -1,1 +1,1 @@
-# mnist_real
+# mnist_samples
